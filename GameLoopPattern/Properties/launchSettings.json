@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GameLoopPattern": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\MyWorkII\\TeachingCourses\\Software Enginnering II\\Modules\\Lecture89-Structural Design Patterns\\Examples\\GameLoopPattern\\GameLoopPattern"
+    }
+  }
+}
